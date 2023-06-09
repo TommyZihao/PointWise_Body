@@ -10,6 +10,8 @@
 
 https://ear.coderai.cn
 
+![Ear210-53Keypoint标注范式](https://zihao-openmmlab.obs.cn-east-3.myhuaweicloud.com/20220610-mmpose/ear_keypoint_dataset/dataset_meta/Ear210_53Keypoint.jpg)
+
 ## 合作
 
 技术咨询、合作研发、商业场景：B站私信“同济子豪兄”
